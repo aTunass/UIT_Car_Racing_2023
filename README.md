@@ -21,12 +21,12 @@ final_round: python3 client.py
 ```
 
 ## <div align="center">Dataset</div>
-- [Segmentation](https://github.com/dotrannhattuong/UIT_Car_Racing_2022/tree/main/dataset/segmentation).
-- [Object Detection](https://github.com/dotrannhattuong/UIT_Car_Racing_2022/tree/main/dataset/object_detection).
+- [Segmentation](https://github.com/aTunass/UIT_Car_Racing_2023/tree/main/data/segment).
+- [Object Detection](https://github.com/aTunass/UIT_Car_Racing_2023/tree/main/data/OD).
 
 ## <div align="center">Training</div>
-- [Unet](https://github.com/dotrannhattuong/UIT_Car_Racing_2022/tree/main/notebook/segment).
-- [Object Detection](https://github.com/dotrannhattuong/UIT_Car_Racing_2022/tree/main/notebook/object_detection).
+- [Unet](https://github.com/aTunass/UIT_Car_Racing_2023/blob/main/segment/mod_train.py).
+- [Object Detection](https://github.com/aTunass/UIT_Car_Racing_2023/blob/main/Reference_BTC/Training_Model/YOLOv5/yolov5_training.ipynb).
 
 ## <div align="center">Idea</div>
 - Ngã ba, Ngã tư nhiễu => thêm hai line cao và thấp hơn để check giá trị có phù hợp
