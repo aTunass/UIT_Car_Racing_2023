@@ -1,0 +1,6 @@
+source: "images/segment"
+weights: ['weights/best.engine', weights/seg.torchscript]
+imgsize_yolo: [640, 640]
+imgsize_seg: [80, 160]
+visualize: True
+save_dir: runs
