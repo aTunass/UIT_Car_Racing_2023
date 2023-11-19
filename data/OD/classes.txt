@@ -1,0 +1,9 @@
+no_straight
+turn_right
+turn_left
+straight
+no_turn_left
+no_turn_right
+stop
+traffic_lights
+unknown
